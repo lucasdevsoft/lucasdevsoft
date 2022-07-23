@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/lucasdevsoft)
 
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/106991248/180618691-b4be454b-be3c-44d6-912e-5f61b19fdb63.png">
+	<img src="https://user-images.githubusercontent.com/106991248/180619650-80d359b5-9d92-4bfe-8043-1c79aed07322.png">
 </div>
 
 ## About me :mortar_board:
