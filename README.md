@@ -7,7 +7,7 @@
 
 ## About me :mortar_board:
 - I'm a Full Stack developer oriented **front-end**.<br>
-- Born, raised and placed in Argentina with spanish blood. <br>
+- Born, raised and placed in Argentina. <br>
 - Enthusiast and curious by nature, always looking for new challenges. <br> 
 - Currently working on improving my skills and discovering this beautiful and infinite universe of programming.
 
