@@ -162,8 +162,8 @@
     </td>
   </tr>
 </table>
-## What I want to do next :thinking:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 
 ## Reach me 📫
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Garcia-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgarciaweb/)](https://www.linkedin.com/in/lucasgarciaweb/)
